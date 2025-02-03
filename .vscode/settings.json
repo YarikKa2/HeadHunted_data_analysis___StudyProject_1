@@ -1,7 +1,0 @@
-{
-    "autoDocstring.docstringFormat": "google",
-    "autoDocstring.generateDocstringOnEnter": true,
-    "autoDocstring.quoteStyle": "'''",
-    "autoDocstring.startOnNewLine": true
-    
-}

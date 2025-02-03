@@ -1,1 +1,0 @@
-# StudyProject1__hh_data_analysis

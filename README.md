@@ -23,7 +23,7 @@ plotly.express ``` import plotly.express as px ``` <br>
 Если у вас отсутвует какой либо из вышеперечисленных пакетов, установите его. <br>
 В терминале введите ``` pip install 'название_пакета_без_кавычек' ```<br>
 
-Для работы plotly требуется <ins>**nbformat**</ins> (версия 4.2.0 или выше), а также kaleido для сохранения изображений в png <br>
+Для работы plotly требуется <ins>**nbformat**</ins> (версия 4.2.0 или выше), <br>а также kaleido для сохранения изображений в png <br>
 Для установки nbformat введите в терминале ``` pip install nbformat ``` <br>
 Для установки kaleido введите в терминале ``` pip install -U kaleido ``` <br>
 Обязательно перезагрузите kernel после установки (либо перезагрузите Visual Studio Code)

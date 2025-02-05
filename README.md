@@ -32,6 +32,8 @@ plotly.express ``` import plotly.express as px ``` <br>
 В репозитории присутствуют необходимые CSV-файлы, добавленные с помощью Git LFS (Large file storage), однако могут возникнуть проблемы с их скачиванием.  <br>
 Если возникли проблемы, данные можно скачать с гугл-диска по ссылке: https://drive.google.com/drive/folders/1om_3DkIHgHaCUyF35hZJAn0Zq8owqGiF?dmr=1&ec=wgc-drive-hero-goto
 
+https://drive.google.com/file/d/1JQ8BWBP4bsjMV9hVeKBoVQ8r1OwmCBKL/view?usp=sharing
+
 ## Команда проекта
 
 - [Капущак Ярослав]

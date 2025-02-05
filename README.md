@@ -32,7 +32,7 @@ plotly.express ``` import plotly.express as px ``` <br>
 В репозитории присутствуют необходимые CSV-файлы, добавленные с помощью Git LFS (Large file storage),<br> однако могут возникнуть проблемы с их скачиванием.  <br>
 <br>
 Если возникли проблемы, данные можно скачать с гугл-диска по ссылкам ниже. <br>
-Данные_1 (dst-3.0_16_1_hh_database.CSV): <br>
+Данные_1 (dst-3.0_16_1_hh_database.CSV): https://drive.google.com/file/d/1wM8oW5eKFQ_VufP4EVhzcSEOTnJoT1io/view?usp=sharing <br>
 Данные_2 (ExchangeRates.CSV): https://drive.google.com/file/d/1JQ8BWBP4bsjMV9hVeKBoVQ8r1OwmCBKL/view?usp=sharing <br>
 Обязательно создайте папку "CSVs" в корневой директории репозитория и добавьте файлы туда.
 

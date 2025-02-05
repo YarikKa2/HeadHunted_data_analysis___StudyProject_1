@@ -41,4 +41,4 @@ plotly.express ``` import plotly.express as px ``` <br>
 - [Капущак Ярослав]
 
 ## Дополнительно
-Может помочь в случае возникновения проблем с nbformat: <br> (https://stackoverflow.com/questions/66557543/valueerror-mime-type-rendering-requires-nbformat-4-2-0-but-it-is-not-installed)
+Может помочь в случае возникновения проблем с nbformat: <br> [ValueError: Mime type rendering requires nbformat>=4.2.0 but it is not installed](https://stackoverflow.com/questions/66557543/valueerror-mime-type-rendering-requires-nbformat-4-2-0-but-it-is-not-installed)

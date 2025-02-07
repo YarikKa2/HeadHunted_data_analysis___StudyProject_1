@@ -31,11 +31,11 @@ plotly.express ``` import plotly.express as px ``` <br>
 ## ВАЖНО
 В репозитории присутствуют необходимые CSV-файлы, добавленные с помощью Git LFS (Large file storage),<br> однако могут возникнуть проблемы с их скачиванием.  <br>
 <br>
-Если возникли проблемы, данные можно скачать с гугл-диска по ссылкам ниже. <br>
-Данные_1 (основной файл (~500 МБ), в котором представлены данные с hh.ru): <br>[dst-3.0_16_1_hh_database.CSV](https://drive.google.com/file/d/1wM8oW5eKFQ_VufP4EVhzcSEOTnJoT1io/view?usp=sharing) <br>
+**Если возникли проблемы, данные можно скачать с гугл-диска по ссылкам ниже.** <br>
+Данные_1 (основной файл (434 МБ), в котором представлены данные с hh.ru): <br>[dst-3.0_16_1_hh_database.CSV](https://drive.google.com/file/d/1wM8oW5eKFQ_VufP4EVhzcSEOTnJoT1io/view?usp=sharing) <br>
 <br>
 Данные_2 (дополнительный файл (193 КБ), в котором представлены данные по курсу валют): <br>[ExchangeRates.CSV](https://drive.google.com/file/d/1JQ8BWBP4bsjMV9hVeKBoVQ8r1OwmCBKL/view?usp=sharing) <br>
-Обязательно создайте папку "CSVs" в корневой директории репозитория и добавьте файлы туда.
+Обязательно **создайте папку "CSVs" в корневой директории** репозитория и **добавьте файлы в нее**.
 
 ## Команда проекта
 
